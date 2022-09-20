@@ -1,1 +1,2 @@
-this is the first text file created to test the git repo
+this is the first text file created to test the git repo.
+this is the second line.
