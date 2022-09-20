@@ -1,2 +1,9 @@
 this is the first text file created to test the git repo.
 this is the second line.
+0. computer hardware
+1. operating systems
+2. computer networks
+3. computer architecture
+4. data structures and algorithms
+5. Database Management Systems
+6. Software Engineering
